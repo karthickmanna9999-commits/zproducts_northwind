@@ -1,0 +1,6 @@
+ID;productId;productName;quantityPerUnit;unitPrice;unitsInStock;category_ID
+6169fdc4-797a-47cf-8881-ffcb30fa0be5;101;Laptop;1 piece;999.99;50;6169fdc4-797a-47cf-8881-ffcb30fa0be5
+4a33d2d4-c583-475d-8b89-3979d93b3729;102;Washing Machine;1 piece;499.99;30;4a33d2d4-c583-475d-8b89-3979d93b3729
+985b0dbb-b60c-4ac5-b4b0-ef91230224c3;103;T-Shirt;1 piece;19.99;100;985b0dbb-b60c-4ac5-b4b0-ef91230224c3
+d55ac021-81f9-4a20-ae1c-e003546e01c1;104;Novel;1 piece;14.99;200;d55ac021-81f9-4a20-ae1c-e003546e01c1
+b4da40d2-be7d-4f7d-a438-66e79aa8e92d;105;Action Figure;1 piece;29.99;75;b4da40d2-be7d-4f7d-a438-66e79aa8e92d
